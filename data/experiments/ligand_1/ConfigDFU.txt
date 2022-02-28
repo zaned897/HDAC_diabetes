@@ -1,0 +1,13 @@
+receptor = HDAC1free.pdbqt
+ligand = Difenilurea1.pdbqt
+
+center_x = -45.655
+center_y = 18.645
+center_z = -5.09
+
+size_x = 28
+size_y = 28
+size_z = 32
+
+energy_range = 4
+exhaustiveness = 8
